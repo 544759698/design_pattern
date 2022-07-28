@@ -6,6 +6,6 @@ package com.yang.design.pattern.command;
 public class Soldier {
 
     public void executeCommand() {
-        System.out.println("收到命令，马上执行！！！");
+        System.out.println("收到命令，马上执行！！！！！！");
     }
 }
